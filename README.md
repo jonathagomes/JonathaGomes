@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+# Jonatha Gomes
+
 ## JavaScript FullStack Developer
 ### Apaixonado por tecnologia
 
-- ❤ Aprendendo React e Node
-- 🚀 Todo dia aprendendo
-- 🖥️ Encantado por tecnologia 
-
+- :purple_heart: Aprendendo React e Node
+- :rocket: Todo dia aprendendo
+- :desktop_computer: Encantado por tecnologia 
