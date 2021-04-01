@@ -2,7 +2,7 @@
 
 # Jonatha Gomes
 
-## JavaScript FullStack Developer
+## Web Developer
 ### Apaixonado por tecnologia
 
 - :purple_heart: Aprendendo React e Node
