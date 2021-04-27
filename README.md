@@ -3,10 +3,10 @@
 # Jonatha Gomes
 
 ## Web Developer
-### Apaixonado por tecnologia
+### Passionate about technology
 
-- :purple_heart: Aprendendo React e Node
-- :rocket: Todo dia aprendendo
-- :desktop_computer: Encantado por tecnologia 
+- :purple_heart: Learning React and Node
+- :rocket: Every day learning
+- :desktop_computer: Enchanted by technology
 
-Meu [linkedin](https://www.linkedin.com/in/jonatha-gomes-99587a1ab/)
+My [linkedin](https://www.linkedin.com/in/jonatha-gomes-99587a1ab/)
