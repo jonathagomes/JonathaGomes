@@ -3,7 +3,7 @@
 # Jonatha Gomes
 
 ## Fullstack Developer
-### Passionate about technology
+### Passionate about technolog
 
 - :purple_heart: Learning React and Node
 - :rocket: Every day learning
