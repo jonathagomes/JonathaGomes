@@ -11,5 +11,5 @@
 
 My [linkedin](https://www.linkedin.com/in/jonatha-gomes-99587a1ab/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaGomes&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaGomes&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JonathaGomes&theme=radical&count_private=true&show_icons=true)
