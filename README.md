@@ -5,7 +5,7 @@
 ## JavaScript Fullstack Developer
 ### Passionate about technology
 
-- :purple_heart: Learning React and Node
+- :purple_heart: Learning React, React Native and Node
 - :rocket: Every day learning.
 - :desktop_computer: Enchanted by technology.
 
