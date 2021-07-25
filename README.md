@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Jonatha Gomes
-
 ## JavaScript Fullstack Developer
 
 ## My Skills
