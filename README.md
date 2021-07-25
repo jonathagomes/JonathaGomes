@@ -3,6 +3,7 @@
 ## JavaScript Fullstack Developer
 
 :rocket: Every day learning
+
 :desktop_computer: Enchanted by technology
 
 
