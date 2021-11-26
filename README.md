@@ -1,10 +1,14 @@
+<img src="https://svgshare.com/i/Zjo.svg" align="right" alt="React" width="180">
+
 ### Hi there 👋
 
 ## JavaScript Fullstack Developer
 
 :rocket: Every day learning
 
-:desktop_computer: Enchanted by technology
+:desktop_computer: Technology passionate
+
+🥷🏽 Trainee Software Engineer at Troqueiro
 
 
 ## My Skills
