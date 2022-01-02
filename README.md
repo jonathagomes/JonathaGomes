@@ -4,11 +4,11 @@
 
 ## JavaScript Fullstack Developer
 
-:rocket: Every day learning
+📚 Every day learning
 
 :desktop_computer: Technology passionate
 
-🥷🏽 Trainee Software Engineer at Troqueiro
+🚀 Front-end developer as [Letras](https://letras.mus.br)
 
 
 ## My Skills
