@@ -8,7 +8,7 @@
 
 :desktop_computer: Technology passionate
 
-🚀 Front-end developer as [Letras](https://letras.mus.br)
+🚀 Front-end developer at [Letras](https://letras.mus.br)
 
 
 ## My Skills
