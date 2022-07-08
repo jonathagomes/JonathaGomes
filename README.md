@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## Software Engineer
+## Fullstack Developer
 
 📚 Every day learning
 
