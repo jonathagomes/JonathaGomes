@@ -6,6 +6,8 @@
 
 📚 Every day learning
 
+"Quando pensares em desistir, lembre-se porque começou."
+
 :desktop_computer: Technology passionate
 
 ## Skills
