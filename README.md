@@ -6,9 +6,9 @@
 
 📚 Every day learning
 
-"Quando pensares em desistir, lembre-se porque começou."
-
 :desktop_computer: Technology passionate
+
+"Quando pensares em desistir, lembre-se porque começou."
 
 ## Skills
 
