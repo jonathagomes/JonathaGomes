@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## Frontend Developer
+## Fullstack Developer
 
 📚 Every day learning
 
